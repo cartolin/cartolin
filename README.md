@@ -16,13 +16,13 @@ Mi nombre es Fidel Cartolin, soy un desarrollador de software con más de 3 año
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-## 🏋️&nbsp;Mi actividad de GitHub
+## 🏋️&nbsp;Mi actividad de GitHub:
 ![Fidel Cartolin](https://github-readme-stats.vercel.app/api?username=CARTOLIN&hide=contribs,prs&theme=buefy&show_icons=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CARTOLIN&layout=compact&theme=buefy)](https://github.com/CARTOLIN/github-readme-stats)
 
 
-## Mis redes sociales
+## Mis redes sociales:
 
 <a href="https://www.linkedin.com/in/fidel-cartolin-rojas/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
