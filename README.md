@@ -2,7 +2,7 @@
 
 ## 👋&nbsp;Hola
 
-Mi nombre es Fidel Cartolin, soy un desarrollador de software con más de 3 años de experiencia en diferentes roles como backend y fronted. Soy un aprendiz apasiado y siempre estoy en busca de nuevo desafíos y oportunidades para desarrollar mis habilidades. He trabajado en equipos, desarrollando las mejores herramientas y tecnologías para la resolución de problemas.
+Soy Fidel Cartolin, un desarrollador de software con más de 5 años de experiencia en roles tanto de backend como de frontend. Me apasiona el aprendizaje continuo y siempre busco nuevos desafíos que me permitan mejorar mis habilidades. A lo largo de mi carrera, he tenido la oportunidad de colaborar en equipos multidisciplinarios, desarrollando soluciones eficientes y utilizando las mejores herramientas y tecnologías disponibles para resolver problemas complejos de manera innovadora.
 
 ## 🎯 &nbsp;Algunas tecnologías que uso:
 ![Java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -15,6 +15,7 @@ Mi nombre es Fidel Cartolin, soy un desarrollador de software con más de 3 año
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 🏋️&nbsp;Mi actividad de GitHub:
 ![Fidel Cartolin](https://github-readme-stats.vercel.app/api?username=CARTOLIN&hide=contribs,prs&theme=buefy&show_icons=true) 
